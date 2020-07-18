@@ -1,0 +1,19 @@
+{
+  "name": "alexanderbamazon",
+  "version": "1.0.0",
+  "description": "An amazon like app",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnaporski/AlexanderBamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnaporski/AlexanderBamazon/issues"
+  },
+  "homepage": "https://github.com/jnaporski/AlexanderBamazon#readme"
+}
